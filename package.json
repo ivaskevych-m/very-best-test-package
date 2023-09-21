@@ -1,6 +1,6 @@
 {
   "name": "@ivaskevych-m/very-best-test-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "very-best-test-package",
   "main": "index.js",
   "scripts": {
