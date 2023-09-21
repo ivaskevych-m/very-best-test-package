@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ivaskevych-m/very-best-test-package/issues"
   },
-  "homepage": "https://github.com/ivaskevych-m/very-best-test-package#readme"
+  "homepage": "https://github.com/ivaskevych-m/very-best-test-package#readme",
+  "publishConfig": {
+    "@ivaskevych-m:registry": "https://npm.pkg.github.com"
+  }
 }
