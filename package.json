@@ -1,0 +1,19 @@
+{
+  "name": "@ivaskevych-m/very-best-test-package",
+  "version": "1.0.0",
+  "description": "very-best-test-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivaskevych-m/very-best-test-package.git"
+  },
+  "author": "@ivaskevych-m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivaskevych-m/very-best-test-package/issues"
+  },
+  "homepage": "https://github.com/ivaskevych-m/very-best-test-package#readme"
+}
